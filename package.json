@@ -1,0 +1,10 @@
+{
+  "name": "liquid-outcome-tokens",
+  "version": "0.1.0",
+  "description": "ERC20 wrapper for prediction market outcome shares to enable DeFi composability",
+  "scripts": {
+    "compile": "hardhat compile",
+    "test": "hardhat test"
+  },
+  "license": "MIT"
+}
